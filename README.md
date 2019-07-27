@@ -14,23 +14,24 @@ To replicate the results:
 
 1. Download Enron-data-set and make sure it is in the same directory as the scripts.
 2. Remove all readmes in Enron-data-set and the only folder structure should be:  
-   Enron-data-set  
-   	Enron1  
-   		ham  
-   		spam  
-   	Enron2  
-   		ham  
-   		spam  
-   	Enron3  
-   		ham  
-   		spam  
-   	Enron4  
-   		ham  
-   		spam  
-   	Enron5  
-   		ham  
-   		spam  
-   	Enron6  
-   		ham  
-   		spam  
+   * Enron-data-set  
+      * Enron1  
+   		* ham  
+   		* spam  
+      * Enron2  
+   		* ham  
+   		* spam  
+      * Enron3  
+   		* ham  
+   		* spam  
+      * Enron4  
+   		* ham  
+   		* spam  
+      * Enron5  
+   		* ham  
+   		* spam  
+      * Enron6  
+   		* ham  
+   		* spam  
    NOTE: ALL MUST BE FOLDERS!! The mails should only be found in ham and spam folders.
+ 
